@@ -1,0 +1,11 @@
+{
+  "name": "com.gocd.primetween",
+  "version": "1.0.0",
+  "displayName": "PrimeTween (Fork)",
+  "description": "Fork of PrimeTween for internal UPM use.",
+  "unity": "2020.3.0",
+  "author": {
+    "name": "Saiken",
+    "url": "https://github.com/chien25062002"
+  }
+}
